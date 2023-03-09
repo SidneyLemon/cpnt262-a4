@@ -1,4 +1,4 @@
-## CPNT 262: Assignment 4 - Pure function
+# CPNT 262: Assignment 4 - Pure function
 
 Author name: Sidney Lemon
 
@@ -8,6 +8,6 @@ List the author and links to any Attributions for code and/or assets you used th
 
 - RE; CPNT 262 class video recordings and daily class notes
 
-# A brief description of what your function does and how it could be used in a real-life project:
+## A brief description of what your function does and how it could be used in a real-life project:
 
 My project is a savings calculator. The intent is to record saving amounts per each paycheck at a rate of 20%
